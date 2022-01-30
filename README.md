@@ -1,4 +1,4 @@
-- 👋 Hola, I’m @neha-ahirwar
+- 👋 Hola, I’m Neha Ahirwar
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning
 - ✍When I am free I like to write technical blog , 😅check them out on https://medium.com/@nehaahirwar9131
