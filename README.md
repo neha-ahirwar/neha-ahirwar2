@@ -1,6 +1,6 @@
 - 👋 Hola, I’m Neha Ahirwar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently doing competitive programming
 - ✍ When I am free I like to write technical blog , 😅check them out on https://medium.com/@nehaahirwar9131
 - 📗 I love to read and 📈I am into stock market as well📉
 - 🌏 Ending day with World affairs and 🤑 business case studies is most satisfying thing
